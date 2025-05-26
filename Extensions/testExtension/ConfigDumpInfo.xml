@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Расш1_Справочник1" id="69ccafa4-c664-4a18-abcf-78b865d407c8" configVersion="012e870fc2e4880006ccfa4d225ca3306b26c615">
+			<Metadata name="Catalog.Расш1_Справочник1.Attribute.Реквизит1" id="b8f8c6c2-facb-4bec-bedc-c4ca64057245"/>
+		</Metadata>
+		<Metadata name="Configuration.Расширение1" id="c175a2ce-b3f0-477b-a1a6-ded4416bd4e9" configVersion="bc70d4fd130c72eedb44cc518e28fda682212701"/>
+		<Metadata name="Language.Русский" id="4a477049-6830-42ab-b295-67b93e4a4467" configVersion="78df35b19901533d02f64374272c2ab0e3f87bc7"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль" id="36088ad1-a662-4f95-a267-03970e6f735f" configVersion="9f7299f4be7375265f388a4018317d7da203b656"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
